@@ -1,4 +1,4 @@
-import java.util.*;
+ import java.util.*;
 class Sorting {
 String str;
 public void getstring() 
@@ -20,4 +20,3 @@ data.getstring();
 data.sort();
 }
 }
-
